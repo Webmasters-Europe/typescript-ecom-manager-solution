@@ -1,0 +1,12 @@
+{
+  "name": "ecom-management-system",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "ts": "npx esbuild src/tests/*.ts --watch --bundle --outfile=assets/js/bundle.js --loader:.ts=ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
