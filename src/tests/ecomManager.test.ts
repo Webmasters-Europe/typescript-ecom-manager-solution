@@ -15,6 +15,8 @@ The test file will:
 - Fetch low-stock products.
 - Get top products by sales.
 - Test edge cases, such as updating or deleting non-existing products.
+- Test invalid discount values.
+- Test automatic ID generation.
 
 EXPECTED BEHAVIOR:
 - This file should run successfully without any modifications.
